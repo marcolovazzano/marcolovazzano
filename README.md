@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-*quote to be replace* - marcolovazzano-bot
+ *Everybody should learn to program a computer, because it teaches you how to think.* - Steve Jobs 
 
 [![README.md]
