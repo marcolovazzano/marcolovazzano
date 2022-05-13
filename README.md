@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
- *Everybody should learn to program a computer, because it teaches you how to think.* - Steve Jobs 
+ *Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.* - John McCarthy (computer scientist) 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
