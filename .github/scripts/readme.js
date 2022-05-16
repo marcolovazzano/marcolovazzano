@@ -16,7 +16,7 @@ function main() {
 
         res.on('end', () => {
             data = JSON.parse(data);
-            quote = `\n *${data.en}* - ${data.author} \n\n`;
+            quote = `\n> *${data.en}* - **${data.author}** \n\n`;
 
             // Update README using FS
             fs.readFile('README.md', 'utf-8', (err, data) => {
