@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
 
----
 
 ### **Quote of the day**
 
