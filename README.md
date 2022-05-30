@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Debugging time increases as a square of the program’s size.* - **Chris Wenham** 
+> *There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.* - **Marijn Haverbeke** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
