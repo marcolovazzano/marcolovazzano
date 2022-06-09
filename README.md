@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.* - **Edsger W. Dijkstra** 
+> *Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.* - **Butler Lampson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
