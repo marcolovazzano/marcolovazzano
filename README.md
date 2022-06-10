@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.* - **Butler Lampson** 
+> *It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.* - **Douglas Crockford** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
