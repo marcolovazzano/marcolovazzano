@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.* - **Donald Knuth** 
+> *The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.* - **Robert L. Glass** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
