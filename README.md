@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The act of describing a program in unambiguous detail and the act of programming are one and the same.* - **Kevlin Henney** 
+> *Don't worry about anything. Just do what you can and be the best you can be.* - **Douglas Crockford** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
