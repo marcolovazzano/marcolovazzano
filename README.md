@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Don't worry about anything. Just do what you can and be the best you can be.* - **Douglas Crockford** 
+> *A lot of companies hire people to tell them what to do. We hire people to tell us what to do.* - **Steve Jobs** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
