@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A lot of companies hire people to tell them what to do. We hire people to tell us what to do.* - **Steve Jobs** 
+> *No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.* - **George Boole** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
