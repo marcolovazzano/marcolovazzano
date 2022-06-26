@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.* - **Anders Hejlsberg** 
+> *I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.* - **Donald Knuth** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
