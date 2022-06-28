@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.* - **Michael Hawley** 
+> *Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.* - **Danny Hillis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
