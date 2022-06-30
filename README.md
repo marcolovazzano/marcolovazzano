@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.* - **Carl Friedrich Gauss** 
+> *So much complexity in software comes from trying to make one thing do two things.* - **Ryan Singer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
