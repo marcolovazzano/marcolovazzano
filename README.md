@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A computer shall not waste your time or require you to do more work than is strictly necessary.* - **Jef Raskin** 
+> *Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.* - **Albert Einstein** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
