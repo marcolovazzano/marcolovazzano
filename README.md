@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.* - **Joshua Bloch** 
+> *Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.* - **Bill Gates** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
