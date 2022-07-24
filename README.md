@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.* - **Gary Kildall** 
+> *I'm doing a free operating system (just a hobby, won't be big and professional like GNU).* - **Linus Torvalds** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
