@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.* - **Martin Fowler** 
+> *If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.* - **David Leinweber** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
