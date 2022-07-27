@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.* - **David Leinweber** 
+> *I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.* - **Alan Perlis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
