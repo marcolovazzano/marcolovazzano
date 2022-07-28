@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.* - **Alan Perlis** 
+> *Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.* - **Ward Cunningham** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
