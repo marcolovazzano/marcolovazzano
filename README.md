@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.* - **Ward Cunningham** 
+> *A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.* - **Alan Turing** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
