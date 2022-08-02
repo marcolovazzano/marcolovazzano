@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.* - **L. Peter Deutsch** 
+> *To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.* - **John Warnock** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
