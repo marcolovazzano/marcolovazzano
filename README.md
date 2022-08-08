@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.* - **John Carmack** 
+> *Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.* - **Chris Sacca** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
