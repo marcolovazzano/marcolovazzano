@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Every good work of software starts by scratching a developer’s personal itch.* - **Eric S. Raymond** 
+> *Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.* - **David Gelernter** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
