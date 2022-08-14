@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.* - **David Gelernter** 
+> *A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.* - **Alan Turing** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
