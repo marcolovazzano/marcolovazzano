@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.* - **L. Peter Deutsch** 
+> *Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.* - **L. Peter Deutsch** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
