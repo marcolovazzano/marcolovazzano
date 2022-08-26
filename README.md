@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A computer shall not waste your time or require you to do more work than is strictly necessary.* - **Jef Raskin** 
+> *The difference between theory and practice is that in theory, there is no difference between theory and practice.* - **Richard Moore (engineer)** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
