@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The difference between theory and practice is that in theory, there is no difference between theory and practice.* - **Richard Moore (engineer)** 
+> *To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.* - **John Warnock** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
