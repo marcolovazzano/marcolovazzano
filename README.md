@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Talk is cheap. Show me the code.* - **Linus Torvalds** 
+> *First, solve the problem. Then, write the code.* - **John Johnson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
