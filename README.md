@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I care not only what the code says but how it looks.* - **Peter Roizen** 
+> *Adding manpower to a late software project makes it later.* - **Fred Brooks** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
