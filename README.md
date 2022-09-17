@@ -5,6 +5,8 @@
 
 **Quote of the day**
 
-> *Adding manpower to a late software project makes it later.* - **Fred Brooks** 
+> *Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!* - **Michael A. Jackson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
