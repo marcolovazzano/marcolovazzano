@@ -5,8 +5,6 @@
 
 **Quote of the day**
 
-> *Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!* - **Michael A. Jackson** 
+> *Just because you've implemented something doesn't mean you understand it.* - **Brian Cantwell Smith** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
