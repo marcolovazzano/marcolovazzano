@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *For most software, efficiency just does not matter.* - **Daniel T. Barry** 
+> *One of my most productive days was throwing away 1,000 lines of code.* - **Ken Thompson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
