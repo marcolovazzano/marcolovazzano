@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *In my second year in graduate school, I took a computer course and that was like lightening striking.* - **Ted Nelson** 
+> *When debugging, novices insert corrective code; experts remove defective code.* - **Richard E. Pattis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
