@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When debugging, novices insert corrective code; experts remove defective code.* - **Richard E. Pattis** 
+> *In man-machine symbiosis, it is man who must adjust: The machines can't.* - **Alan Perlis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
