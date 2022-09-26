@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *In man-machine symbiosis, it is man who must adjust: The machines can't.* - **Alan Perlis** 
+> *LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
