@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.* - **Edsger W. Dijkstra** 
+> *The act of describing a program in unambiguous detail and the act of programming are one and the same.* - **Kevlin Henney** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
