@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The act of describing a program in unambiguous detail and the act of programming are one and the same.* - **Kevlin Henney** 
+> *Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.* - **Fred Brooks** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
