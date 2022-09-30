@@ -5,6 +5,8 @@
 
 **Quote of the day**
 
-> *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.* - **Martin Fowler** 
+> *Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!* - **Michael A. Jackson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
