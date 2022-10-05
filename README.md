@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.* - **Douglas Crockford** 
+> *False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.* - **Fred Brooks** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
