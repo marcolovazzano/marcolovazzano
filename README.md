@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.* - **Brian Kernighan** 
+> *Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.* - **Joseph Yoder (computer scientist)** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
