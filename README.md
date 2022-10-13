@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We need to be super careful with AI. Potentially more dangerous than nukes.* - **Elon Musk** 
+> *W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.* - **Martin Fowler** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
