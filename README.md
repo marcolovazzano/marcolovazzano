@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.* - **Martin Fowler** 
+> *Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.* - **Richard Stallman** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
