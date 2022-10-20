@@ -5,7 +5,6 @@
 
 **Quote of the day**
 
-> *I think there is a world market for maybe five
-computers.* - **Thomas J. Watson** 
+> *Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
