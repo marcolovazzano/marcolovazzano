@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nine women can't make a baby in one month.* - **Fred Brooks** 
+> *You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.* - **Anonymous** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
