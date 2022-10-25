@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.* - **Buckminster Fuller** 
+> *All too many of our software systems are, architecturally, little more than shantytowns.* - **Joseph Yoder (computer scientist)** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
