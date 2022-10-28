@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.* - **Fred Brooks** 
+> *No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.* - **George Boole** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
