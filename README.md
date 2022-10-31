@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.* - **Tom Cargill** 
+> *The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.* - **Joshua Bloch** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
