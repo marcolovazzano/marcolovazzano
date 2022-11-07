@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.* - **David Parnas** 
+> *The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.* - **Fred Brooks** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
