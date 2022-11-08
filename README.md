@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.* - **Fred Brooks** 
+> *The only way to learn a new programming language is by writing programs in it.* - **Dennis Ritchie** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
