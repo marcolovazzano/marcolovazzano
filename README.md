@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.* - **Marijn Haverbeke** 
+> *It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.* - **Alan Perlis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
