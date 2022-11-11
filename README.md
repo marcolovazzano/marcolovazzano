@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.* - **Alan Perlis** 
+> *Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.* - **Richard Hamming** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
