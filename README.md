@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.* - **Richard Hamming** 
+> *Just because you've implemented something doesn't mean you understand it.* - **Brian Cantwell Smith** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
