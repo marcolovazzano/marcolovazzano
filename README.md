@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Just because you've implemented something doesn't mean you understand it.* - **Brian Cantwell Smith** 
+> *That hardly ever happens is another way of saying 'it happens'.* - **Douglas Crockford** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
