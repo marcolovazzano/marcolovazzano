@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Programming increases goes as a power of program size.* - **Fred Brooks** 
+> *Most errors are introduced during requirements specification!* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
