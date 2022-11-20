@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.* - **Fred Brooks** 
+> *The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.* - **Ada Lovelace** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
