@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *One accurate measurement is worth more than a thousand expert opinions.* - **Grace Hopper** 
+> *Programming increases goes as a power of program size.* - **Fred Brooks** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
