@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.* - **David Parnas** 
+> *The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.* - **Danny Hillis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
