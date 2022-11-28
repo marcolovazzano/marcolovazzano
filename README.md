@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.* - **Danny Hillis** 
+> *The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.* - **Charles Simonyi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
