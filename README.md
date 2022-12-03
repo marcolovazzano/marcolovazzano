@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Software engineering is the part of computer science which is too difficult for the computer scientist.* - **Friedrich Bauer** 
+> *Friends... they cherish one another's hopes. They are kind to one another's dreams.* - **Henry David Thoreau** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
