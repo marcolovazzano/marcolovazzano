@@ -1,13 +1,14 @@
 // List of quotes API:
 // - http://quotes.stormconsultancy.co.uk/api
 // - http://programming-quotes-api.herokuapp.com/Quotes/random
+// - https://api.quotable.io/random
 
 // Include node fs (file stream) and https modules
 const fs = require('fs');
 const http = require('http');
 
 // API url
-const url = "http://programming-quotes-api.herokuapp.com/Quotes/random";
+const url = "http://api.quotable.io/random";
 
 function main() {
     http.get(url, res => {
@@ -16,7 +17,7 @@ function main() {
 
         res.on('end', () => {
             data = JSON.parse(data);
-            quote = `\n> *${data.en}* - **${data.author}** \n\n`;
+            quote = `\n> *${data.content}* - **${data.author}** \n\n`;
 
             // Update README using FS
             fs.readFile('README.md', 'utf-8', (err, data) => {
