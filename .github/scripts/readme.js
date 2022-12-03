@@ -8,7 +8,7 @@ const fs = require('fs');
 const http = require('http');
 
 // API url
-const url = "https://api.quotable.io/random";
+const url = "http://api.quotable.io/random";
 
 function main() {
     http.get(url, res => {
