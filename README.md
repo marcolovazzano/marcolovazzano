@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Respect should be earned by actions, and not acquired by years.* - **Frank Lloyd Wright** 
+> *The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.* - **Reinhold Niebuhr** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
