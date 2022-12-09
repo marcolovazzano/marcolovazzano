@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Liberty, taking the word in its concrete sense, consists in the ability to choose.* - **Simone Weil** 
+> *If you want to kill any idea in the world, get a committee working on it.* - **Charles F. Kettering** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
