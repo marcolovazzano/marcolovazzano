@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you want to kill any idea in the world, get a committee working on it.* - **Charles F. Kettering** 
+> *You win the victory when you yield to friends.* - **Sophocles** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
