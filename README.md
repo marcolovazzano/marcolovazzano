@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.* - **Arthur Rubinstein** 
+> *Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.* - **John Wooden** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
