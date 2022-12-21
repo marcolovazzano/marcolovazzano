@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.* - **Arthur Rubinstein** 
+> *There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.* - **Dalai Lama** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
