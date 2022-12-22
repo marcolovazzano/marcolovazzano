@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.* - **Dalai Lama** 
+> *A wise man will make more opportunities than he finds.* - **Francis Bacon** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
