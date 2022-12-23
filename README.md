@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A wise man will make more opportunities than he finds.* - **Francis Bacon** 
+> *We could never learn to be brave and patient if there were only joy in the world.* - **Helen Keller** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
