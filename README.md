@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.* - **Laurence J. Peter** 
+> *However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?* - **Buddha** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
