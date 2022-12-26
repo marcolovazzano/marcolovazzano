@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?* - **Buddha** 
+> *If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.* - **J. Paul Getty** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
