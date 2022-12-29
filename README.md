@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *No matter how hard the past, you can always begin again.* - **Buddha** 
+> *Formula for success: under promise and over deliver.* - **Tom Peters** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
