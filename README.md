@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Formula for success: under promise and over deliver.* - **Tom Peters** 
+> *All know the way; few actually walk it.* - **Bodhidharma** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
