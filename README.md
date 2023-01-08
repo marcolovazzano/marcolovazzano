@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.* - **Ian Botham** 
+> *All I can say about life is, Oh God, enjoy it!* - **Bob Newhart** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
