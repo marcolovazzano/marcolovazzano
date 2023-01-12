@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.* - **Michelangelo** 
+> *A friend is what the heart needs all the time.* - **Henry van Dyke Jr.** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
