@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We love life, not because we are used to living but because we are used to loving.* - **Friedrich Nietzsche** 
+> *But at any rate, the point is that God is what nobody admits to being, and everybody really is.* - **Alan Watts** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
