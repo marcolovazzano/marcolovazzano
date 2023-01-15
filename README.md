@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *But at any rate, the point is that God is what nobody admits to being, and everybody really is.* - **Alan Watts** 
+> *Be as you wish to seem.* - **Socrates** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
