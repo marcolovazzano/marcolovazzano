@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.* - **Mary Kay Ash** 
+> *Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.* - **Rumi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
