@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.* - **Rumi** 
+> *It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.* - **John Steinbeck** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
