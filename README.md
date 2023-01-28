@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.* - **Dalai Lama** 
+> *As we are liberated from our own fear, our presence automatically liberates others.* - **Nelson Mandela** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
