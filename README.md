@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?* - **Rabbi Hillel** 
+> *It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.* - **Franklin D. Roosevelt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
