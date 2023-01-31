@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.* - **Franklin D. Roosevelt** 
+> *The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.* - **William Arthur Ward** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
