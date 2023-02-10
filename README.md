@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is far better to be alone, than to be in bad company.* - **George Washington** 
+> *Beware of missing chances; otherwise it may be altogether too late someday.* - **Franz Liszt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
