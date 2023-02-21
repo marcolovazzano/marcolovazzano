@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Not what we have but what we enjoy constitutes our abundance.* - **Jean Antoine Petit-Senn** 
+> *Wisdom begins in wonder.* - **Socrates** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
