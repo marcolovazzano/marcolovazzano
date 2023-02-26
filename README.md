@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Genius unrefined resembles a flash of lightning, but wisdom is like the sun.* - **Franz Grillparzer** 
+> *I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.* - **Ken Venturi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
