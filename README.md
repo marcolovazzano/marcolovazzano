@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.* - **Ken Venturi** 
+> *Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.* - **Ralph Waldo Emerson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
