@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Go for it now. The future is promised to no one.* - **Wayne Dyer** 
+> *When you learn, teach. When you get, give.* - **Maya Angelou** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
