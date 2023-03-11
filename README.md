@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.* - **Plutarch** 
+> *Truth is powerful and it prevails.* - **Sojourner Truth** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
