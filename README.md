@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Truth is powerful and it prevails.* - **Sojourner Truth** 
+> *He who wishes to secure the good of others, has already secured his own.* - **Confucius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
