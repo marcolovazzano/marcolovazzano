@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *He who wishes to secure the good of others, has already secured his own.* - **Confucius** 
+> *Better be ignorant of a matter than half know it.* - **Publilius Syrus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
