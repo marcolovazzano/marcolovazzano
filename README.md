@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.* - **Vince Lombardi** 
+> *By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
