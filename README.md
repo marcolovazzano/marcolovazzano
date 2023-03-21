@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Never bend your head. Always hold it high. Look the world right in the eye.* - **Helen Keller** 
+> *I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.* - **Dalai Lama** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
