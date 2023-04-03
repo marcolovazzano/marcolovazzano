@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We should all be thankful for those people who rekindle the inner spirit.* - **Albert Schweitzer** 
+> *Wisdom is oftentimes nearer when we stoop than when we soar.* - **William Wordsworth** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
