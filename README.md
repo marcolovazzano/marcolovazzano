@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Meetings are indispensable when you don't want to do anything.* - **John Kenneth Galbraith** 
+> *I want my friend to miss me as long as I miss him.* - **Augustine of Hippo** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
