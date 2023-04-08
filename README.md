@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *People don't notice whether it's winter or summer when they're happy.* - **Anton Chekhov** 
+> *No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.* - **Niccolò Machiavelli** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
