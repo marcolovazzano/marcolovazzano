@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.* - **Abraham Lincoln** 
+> *Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.* - **Eleanor Roosevelt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
