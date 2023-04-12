@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.* - **Eleanor Roosevelt** 
+> *There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.* - **Nelson Mandela** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
