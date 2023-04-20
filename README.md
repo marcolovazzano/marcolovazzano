@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The fewer rules a coach has, the fewer rules there are for players to break.* - **John Madden** 
+> *Never do things others can do and will do, if there are things others cannot do or will not do.* - **Amelia Earhart** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
