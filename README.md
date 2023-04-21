@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Never do things others can do and will do, if there are things others cannot do or will not do.* - **Amelia Earhart** 
+> *In action a great heart is the chief qualification. In work, a great head.* - **Arthur Schopenhauer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
