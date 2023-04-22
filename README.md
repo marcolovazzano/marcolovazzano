@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *In action a great heart is the chief qualification. In work, a great head.* - **Arthur Schopenhauer** 
+> *The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.* - **Thomas Edison** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
