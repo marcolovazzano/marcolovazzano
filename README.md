@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.* - **Thomas Edison** 
+> *We choose our joys and sorrows long before we experience them.* - **Kahlil Gibran** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
