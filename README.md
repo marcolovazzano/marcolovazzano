@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We choose our joys and sorrows long before we experience them.* - **Kahlil Gibran** 
+> *It is fatal to enter any war without the will to win it.* - **Douglas MacArthur** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
