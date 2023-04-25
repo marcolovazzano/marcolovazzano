@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is fatal to enter any war without the will to win it.* - **Douglas MacArthur** 
+> *A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
