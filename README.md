@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Goals are the fuel in the furnace of achievement.* - **Brian Tracy** 
+> *If you only have a hammer, you tend to see every problem as a nail.* - **Abraham Maslow** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
