@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You're never a loser until you quit trying.* - **Mike Ditka** 
+> *If we are not fully ourselves, truly in the present moment, we miss everything.* - **Thích Nhất Hạnh** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
