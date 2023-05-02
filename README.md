@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If we are not fully ourselves, truly in the present moment, we miss everything.* - **Thích Nhất Hạnh** 
+> *A house divided against itself cannot stand.* - **Abraham Lincoln** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
