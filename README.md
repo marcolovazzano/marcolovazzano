@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.* - **Holly Near** 
+> *Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.* - **Elie Wiesel** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
