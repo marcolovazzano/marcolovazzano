@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To follow, without halt, one aim: There is the secret of success.* - **Anna Pavlova** 
+> *Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.* - **Gloria Steinem** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
