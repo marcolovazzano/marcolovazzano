@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nothing happens unless first we dream.* - **Carl Sandburg** 
+> *Ignorance and bungling with love are better than wisdom and skill without.* - **Henry David Thoreau** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
