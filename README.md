@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Ignorance and bungling with love are better than wisdom and skill without.* - **Henry David Thoreau** 
+> *O, what a tangled web we weave when first we practice to deceive!* - **Walter Scott** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
