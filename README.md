@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.* - **Dalai Lama** 
+> *When I let go of what I am, I become what I might be.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
