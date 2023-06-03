@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We read the world wrong and say that it deceives us.* - **Rabindranath Tagore** 
+> *The best cure for the body is a quiet mind.* - **Napoleon** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
