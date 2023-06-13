@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The greater our knowledge increases the more our ignorance unfolds.* - **John F. Kennedy** 
+> *Never find fault with the absent.* - **Alexander Pope** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
