@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Love is the wisdom of the fool and the folly of the wise.* - **Samuel Johnson** 
+> *He who angers you conquers you.* - **Elizabeth Kenny** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
