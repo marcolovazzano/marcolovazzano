@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friendship often ends in love, but love in friendship - never.* - **Albert Camus** 
+> *Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.* - **Carl Jung** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
