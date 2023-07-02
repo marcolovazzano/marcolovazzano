@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.* - **Carl Jung** 
+> *The differences between friends cannot but reinforce their friendship.* - **Mao Zedong** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
