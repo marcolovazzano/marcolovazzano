@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Rejoicing in our joy, not suffering over our suffering, makes someone a friend.* - **Friedrich Nietzsche** 
+> *A little knowledge that acts is worth infinitely more than much knowledge that is idle.* - **Kahlil Gibran** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
