@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.* - **Ralph Waldo Emerson** 
+> *Friends are those rare people who ask how we are and then wait to hear the answer.* - **Ed Cunningham** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
