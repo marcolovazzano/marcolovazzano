@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Happiness resides not in possessions, and not in gold, happiness dwells in the soul.* - **Democritus** 
+> *Knowing is not enough; we must apply. Willing is not enough; we must do.* - **Johann Wolfgang von Goethe** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
