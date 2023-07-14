@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.* - **Confucius** 
+> *It isn't where you come from, it's where you're going that counts.* - **Ella Fitzgerald** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
