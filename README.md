@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'* - **Bill Bradley** 
+> *Dost thou love life? Then do not squander time, for that is the stuff life is made of.* - **Benjamin Franklin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
