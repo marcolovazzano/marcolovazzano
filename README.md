@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Dost thou love life? Then do not squander time, for that is the stuff life is made of.* - **Benjamin Franklin** 
+> *It is not uncommon for people to spend their whole life waiting to start living.* - **Eckhart Tolle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
