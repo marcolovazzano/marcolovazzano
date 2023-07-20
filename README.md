@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A good head and a good heart are always a formidable combination.* - **Nelson Mandela** 
+> *Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
