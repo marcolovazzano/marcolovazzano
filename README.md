@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nothing happens unless first we dream.* - **Carl Sandburg** 
+> *Silence is deep as Eternity; Speech is shallow as Time.* - **Thomas Carlyle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
