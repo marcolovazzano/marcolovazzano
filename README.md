@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.* - **W. Clement Stone** 
+> *In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.* - **Harold Geneen** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
