@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Can you imagine what I would do if I could do all I can?* - **Sun Tzu** 
+> *Never mistake activity for achievement.* - **John Wooden** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
