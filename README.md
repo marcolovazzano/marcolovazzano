@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There are two kinds of failures: those who thought and never did, and those who did and never thought.* - **Laurence J. Peter** 
+> *Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.* - **Marcus Aurelius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
