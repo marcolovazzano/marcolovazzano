@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.* - **Marcus Aurelius** 
+> *Ideas are the beginning points of all fortunes.* - **Napoleon Hill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
