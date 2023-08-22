@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.* - **Mia Hamm** 
+> *If you love someone, set them free. If they come back, they're yours; if they don't, they never were.* - **Richard Bach** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
