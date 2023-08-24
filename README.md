@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.* - **Confucius** 
+> *Ideas pull the trigger, but instinct loads the gun.* - **Don Marquis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
