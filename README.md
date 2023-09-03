@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Always tell the truth. That way, you don't have to remember what you said.* - **Mark Twain** 
+> *Think as a wise man but communicate in the language of the people.* - **William Butler Yeats** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
