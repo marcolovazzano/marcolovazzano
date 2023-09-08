@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The thing always happens that you really believe in; and the belief in a thing makes it happen.* - **Frank Lloyd Wright** 
+> *The man of knowledge must be able not only to love his enemies but also to hate his friends.* - **Friedrich Nietzsche** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
