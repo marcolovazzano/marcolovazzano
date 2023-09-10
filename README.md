@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It isn't where you come from, it's where you're going that counts.* - **Ella Fitzgerald** 
+> *The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.* - **Mortimer J. Adler** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
