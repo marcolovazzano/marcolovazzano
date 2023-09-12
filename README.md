@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Learning is finding out what you already know.* - **Richard Bach** 
+> *Fans don't boo nobodies.* - **Reggie Jackson (basketball, born 1990)** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
