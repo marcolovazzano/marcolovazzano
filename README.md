@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You can't let praise or criticism get to you. It's a weakness to get caught up in either one.* - **John Wooden** 
+> *The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.* - **Dwight D. Eisenhower** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
