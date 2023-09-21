@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Wisdom is found only in truth.* - **Johann Wolfgang von Goethe** 
+> *Know how to listen, and you will profit even from those who talk badly.* - **Plutarch** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
