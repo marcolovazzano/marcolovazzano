@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The day of fortune is like a harvest day, we must be busy when the corn is ripe.* - **Torquato Tasso** 
+> *Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.* - **Thomas Carlyle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
