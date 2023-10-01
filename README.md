@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.* - **Thomas Carlyle** 
+> *The least of things with a meaning is worth more in life than the greatest of things without it.* - **Carl Jung** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
