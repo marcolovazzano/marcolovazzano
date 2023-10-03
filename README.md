@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *With age comes wisdom and a high sex drive. And the wisdom to enjoy it.* - **Amber Valletta** 
+> *There surely is in human nature an inherent propensity to extract all the good out of all the evil.* - **Benjamin Haydon** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
