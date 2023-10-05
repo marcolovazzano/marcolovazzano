@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Everyone thinks of changing the world, but no one thinks of changing himself.* - **Leo Tolstoy** 
+> *All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.* - **William Shakespeare** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
