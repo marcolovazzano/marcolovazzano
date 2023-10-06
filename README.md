@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.* - **William Shakespeare** 
+> *What do we live for, if it is not to make life less difficult for each other?* - **George Eliot** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
