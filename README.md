@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You're never a loser until you quit trying.* - **Mike Ditka** 
+> *All I can say about life is, Oh God, enjoy it!* - **Bob Newhart** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
