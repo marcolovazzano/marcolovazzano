@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Just trust yourself, then you will know how to live.* - **Johann Wolfgang von Goethe** 
+> *Everything you are against weakens you. Everything you are for empowers you.* - **Wayne Dyer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
