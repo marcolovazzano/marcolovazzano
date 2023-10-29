@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Believe deep down in your heart that you're destined to do great things.* - **Joe Paterno** 
+> *Take time to deliberate, but when the time for action has arrived, stop thinking and go in.* - **Napoleon** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
