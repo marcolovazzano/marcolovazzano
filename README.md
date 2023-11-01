@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If one way be better than another, that you may be sure is nature's way.* - **Aristotle** 
+> *Truth, and goodness, and beauty are but different faces of the same all.* - **Ralph Waldo Emerson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
