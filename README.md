@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Truth, and goodness, and beauty are but different faces of the same all.* - **Ralph Waldo Emerson** 
+> *People grow through experience if they meet life honestly and courageously. This is how character is built.* - **Eleanor Roosevelt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
