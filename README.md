@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.* - **John Dewey** 
+> *The past has no power to stop you from being present now. Only your grievance about the past can do that.* - **Eckhart Tolle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
