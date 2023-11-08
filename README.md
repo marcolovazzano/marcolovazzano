@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A friend to all is a friend to none.* - **Aristotle** 
+> *To climb steep hills requires a slow pace at first.* - **William Shakespeare** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
