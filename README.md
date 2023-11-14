@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.* - **Henry Reed** 
+> *The way you see people is the way you treat them, and the way you treat them is what they become.* - **Johann Wolfgang von Goethe** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
