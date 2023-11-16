@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I always wanted to be somebody, but I should have been more specific.* - **Lily Tomlin** 
+> *Music is a higher revelation than all wisdom and philosophy.* - **Ludwig van Beethoven** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
