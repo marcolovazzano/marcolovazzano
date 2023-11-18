@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Happiness is a perfume you cannot pour on others without getting a few drops on yourself.* - **Ralph Waldo Emerson** 
+> *Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.* - **The Buddha** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
