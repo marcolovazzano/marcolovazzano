@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.* - **The Buddha** 
+> *Patience is the companion of wisdom.* - **Augustine of Hippo** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
