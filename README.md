@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *From error to error one discovers the entire truth.* - **Sigmund Freud** 
+> *Life is 10% what happens to you and 90% how you react to it.* - **Chuck Swindoll** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
