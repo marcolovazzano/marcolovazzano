@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.* - **Robert Louis Stevenson** 
+> *Technology… the knack of so arranging the world that we don't have to experience it.* - **Max Frisch** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
