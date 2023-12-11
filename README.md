@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Ideas pull the trigger, but instinct loads the gun.* - **Don Marquis** 
+> *Good actions give strength to ourselves and inspire good actions in others.* - **Plato** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
