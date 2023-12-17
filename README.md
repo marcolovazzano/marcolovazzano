@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Change is the law of life. And those who look only to the past or present are certain to miss the future.* - **John F. Kennedy** 
+> *Life is not a problem to be solved, but a reality to be experienced.* - **Søren Kierkegaard** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
