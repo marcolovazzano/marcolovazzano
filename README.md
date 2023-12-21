@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Good judgment comes from experience, and a lot of that comes from bad judgment.* - **Will Rogers** 
+> *The noblest worship is to make yourself as good and as just as you can.* - **Isocrates** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
