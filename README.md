@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is no great genius without some touch of madness.* - **Seneca the Younger** 
+> *I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.* - **Leonardo da Vinci** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
