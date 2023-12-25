@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.* - **Leonardo da Vinci** 
+> *Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.* - **Steven Van Zandt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
