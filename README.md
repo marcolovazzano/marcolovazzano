@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.* - **Horace** 
+> *Happiness is not something ready-made. It comes from your own actions.* - **Dalai Lama** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
