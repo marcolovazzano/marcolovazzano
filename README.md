@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Your sacred space is where you can find yourself again and again.* - **Joseph Campbell** 
+> *Loss is nothing else but change, and change is Nature's delight.* - **Marcus Aurelius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
