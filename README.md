@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Loss is nothing else but change, and change is Nature's delight.* - **Marcus Aurelius** 
+> *There is nothing in a caterpillar that tells you it's going to be a butterfly.* - **Buckminster Fuller** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
