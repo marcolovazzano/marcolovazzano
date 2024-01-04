@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you wish to be a writer, write.* - **Epictetus** 
+> *It takes courage to grow up and become who you really are.* - **E. E. Cummings** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
