@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you only have a hammer, you tend to see every problem as a nail.* - **Abraham Maslow** 
+> *Keep your face always toward the sunshine - and shadows will fall behind you.* - **Walt Whitman** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
