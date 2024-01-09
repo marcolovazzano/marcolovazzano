@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Keep your face always toward the sunshine - and shadows will fall behind you.* - **Walt Whitman** 
+> *We should all be thankful for those people who rekindle the inner spirit.* - **Albert Schweitzer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
