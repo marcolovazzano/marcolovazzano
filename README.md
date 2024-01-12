@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friends show their love in times of trouble, not in happiness.* - **Euripides** 
+> *Reality is merely an illusion, albeit a very persistent one.* - **Albert Einstein** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
