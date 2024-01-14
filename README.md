@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.* - **Albert Einstein** 
+> *He that respects himself is safe from others; he wears a coat of mail that none can pierce.* - **Henry Wadsworth Longfellow** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
