@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.* - **Wayne Dyer** 
+> *All things must come to the soul from its roots, from where it is planted.* - **Teresa of Ávila** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
