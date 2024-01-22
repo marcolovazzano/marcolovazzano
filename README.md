@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.* - **Thích Nhất Hạnh** 
+> *Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.* - **Lucille Ball** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
