@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Purity and impurity depend on oneself; no one can purify another.* - **The Buddha** 
+> *The truth you believe and cling to makes you unavailable to hear anything new.* - **Pema Chödrön** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
