@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The truth you believe and cling to makes you unavailable to hear anything new.* - **Pema Chödrön** 
+> *Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.* - **Chanakya** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
