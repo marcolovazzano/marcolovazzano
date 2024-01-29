@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Those who dare to fail miserably can achieve greatly.* - **John F. Kennedy** 
+> *Respect should be earned by actions, and not acquired by years.* - **Frank Lloyd Wright** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
