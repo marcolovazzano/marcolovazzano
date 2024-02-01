@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The most effective way to do it, is to do it.* - **Amelia Earhart** 
+> *Do not wait for leaders; do it alone, person to person.* - **Mother Teresa** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
