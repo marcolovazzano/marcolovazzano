@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Do not wait for leaders; do it alone, person to person.* - **Mother Teresa** 
+> *We may encounter many defeats, but we must not be defeated.* - **Maya Angelou** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
