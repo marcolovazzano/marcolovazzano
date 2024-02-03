@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We may encounter many defeats, but we must not be defeated.* - **Maya Angelou** 
+> *To see things in the seed, that is genius.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
