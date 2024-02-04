@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To see things in the seed, that is genius.* - **Laozi** 
+> *All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.* - **Anne Brontë** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
