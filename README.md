@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.* - **Anne Brontë** 
+> *If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.* - **Morris West** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
