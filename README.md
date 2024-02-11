@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Anybody can make history. Only a great man can write it.* - **Oscar Wilde** 
+> *Action is eloquence.* - **William Shakespeare** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
