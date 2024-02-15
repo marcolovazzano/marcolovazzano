@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.* - **Jane Addams** 
+> *Great ideas often receive violent opposition from mediocre minds.* - **Albert Einstein** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
