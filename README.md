@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.* - **Franklin D. Roosevelt** 
+> *Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.* - **Richard Bach** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
