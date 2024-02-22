@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Our work is the presentation of our capabilities.* - **Edward Gibbon** 
+> *A rolling stone gathers no moss.* - **Publilius Syrus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
