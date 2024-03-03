@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is better to understand a little than to misunderstand a lot.* - **Anatole France** 
+> *When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.* - **Epictetus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
