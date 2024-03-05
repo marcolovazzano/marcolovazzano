@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Think how hard physics would be if particles could think.* - **Murray Gell-Mann** 
+> *Everything that exists is in a manner the seed of that which will be.* - **Marcus Aurelius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
