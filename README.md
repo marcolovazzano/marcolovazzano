@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Our passion is our strength.* - **Billie Armstrong** 
+> *When in doubt, tell the truth.* - **Mark Twain** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
