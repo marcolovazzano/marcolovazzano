@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *People don't notice whether it's winter or summer when they're happy.* - **Anton Chekhov** 
+> *The best way to predict your future is to create it.* - **Peter Drucker** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
