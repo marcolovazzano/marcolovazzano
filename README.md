@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.* - **Caroline Myss** 
+> *Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.* - **Helen Keller** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
