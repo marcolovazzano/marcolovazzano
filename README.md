@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.* - **Helen Keller** 
+> *Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.* - **Sidney Hook** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
