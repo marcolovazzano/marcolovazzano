@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.* - **Howard H. Aiken** 
+> *Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.* - **Anaïs Nin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
