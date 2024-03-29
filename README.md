@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We must not say every mistake is a foolish one.* - **Cicero** 
+> *You might well remember that nothing can bring you success but yourself.* - **Napoleon Hill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
