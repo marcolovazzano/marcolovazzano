@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We can change our lives. We can do, have, and be exactly what we wish.* - **Tony Robbins** 
+> *A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.* - **Isaac Asimov** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
