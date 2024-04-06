@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The wisest men follow their own direction.* - **Euripides** 
+> *The only journey is the one within.* - **Rainer Maria Rilke** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
