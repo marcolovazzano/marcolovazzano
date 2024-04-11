@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *One who is too insistent on his own views, finds few to agree with him.* - **Laozi** 
+> *Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.* - **Eleanor Roosevelt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
