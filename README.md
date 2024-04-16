@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.* - **Janet Jackson** 
+> *Change is the law of life. And those who look only to the past or present are certain to miss the future.* - **John F. Kennedy** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
