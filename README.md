@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.* - **Maya Angelou** 
+> *The farther backward you can look, the farther forward you can see.* - **Winston Churchill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
