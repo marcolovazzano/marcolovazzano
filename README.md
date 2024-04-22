@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I had three chairs in my house; one for solitude, two for friendship, three for society.* - **Henry David Thoreau** 
+> *When we seek to discover the best in others, we somehow bring out the best in ourselves.* - **William Arthur Ward** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
