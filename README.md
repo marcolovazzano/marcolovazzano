@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When we seek to discover the best in others, we somehow bring out the best in ourselves.* - **William Arthur Ward** 
+> *The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.* - **Winston Churchill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
