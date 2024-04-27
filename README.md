@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.* - **Eknath Easwaran** 
+> *All difficult things have their origin in that which is easy, and great things in that which is small.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
