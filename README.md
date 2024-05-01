@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The day of fortune is like a harvest day, we must be busy when the corn is ripe.* - **Torquato Tasso** 
+> *We've got to have a dream if we are going to make a dream come true.* - **Walt Disney** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
