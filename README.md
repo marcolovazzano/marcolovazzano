@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We've got to have a dream if we are going to make a dream come true.* - **Walt Disney** 
+> *Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?* - **Friedrich Nietzsche** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
