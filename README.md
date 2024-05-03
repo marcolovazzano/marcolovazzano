@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?* - **Friedrich Nietzsche** 
+> *The extreme limit of wisdom, that's what the public calls madness.* - **Jean Cocteau** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
