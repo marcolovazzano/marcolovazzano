@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *By living deeply in the present moment we can understand the past better and we can prepare for a better future.* - **Thích Nhất Hạnh** 
+> *Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.* - **Marcus Aurelius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
