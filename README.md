@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.* - **Marcus Aurelius** 
+> *The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.* - **Eckhart Tolle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
