@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.* - **Laozi** 
+> *Experience is not what happens to a man. It is what a man does with what happens to him.* - **Aldous Huxley** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
