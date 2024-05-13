@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Experience is not what happens to a man. It is what a man does with what happens to him.* - **Aldous Huxley** 
+> *I am always ready to learn although I do not always like being taught.* - **Winston Churchill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
