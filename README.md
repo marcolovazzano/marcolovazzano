@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Short words are best and the old words when short are best of all.* - **Winston Churchill** 
+> *We must not say every mistake is a foolish one.* - **Cicero** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
