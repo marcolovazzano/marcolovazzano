@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.* - **Mark Twain** 
+> *But man is not made for defeat. A man can be destroyed but not defeated.* - **Ernest Hemingway** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
