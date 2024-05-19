@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *But man is not made for defeat. A man can be destroyed but not defeated.* - **Ernest Hemingway** 
+> *The man who trusts men will make fewer mistakes than he who distrusts them.* - **Camillo Benso, Count of Cavour** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
