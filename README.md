@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.* - **Neil Gaiman** 
+> *O, what a tangled web we weave when first we practice to deceive!* - **Walter Scott** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
