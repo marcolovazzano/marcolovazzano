@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *See the positive side, the potential, and make an effort.* - **Dalai Lama** 
+> *The more you know yourself, the more you forgive yourself.* - **Confucius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
