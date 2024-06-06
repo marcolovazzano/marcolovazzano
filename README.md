@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The least movement is of importance to all nature. The entire ocean is affected by a pebble.* - **Blaise Pascal** 
+> *The philosophy of the school room in one generation will be the philosophy of government in the next.* - **Abraham Lincoln** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
