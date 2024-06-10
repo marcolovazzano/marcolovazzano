@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Kindness is the language which the deaf can hear and the blind can see.* - **Mark Twain** 
+> *He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.* - **Tryon Edwards** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
