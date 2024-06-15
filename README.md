@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The differences between friends cannot but reinforce their friendship.* - **Mao Zedong** 
+> *Wisdom has never made a bigot, but learning has.* - **Josh Billings** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
