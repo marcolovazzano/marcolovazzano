@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *He who knows himself is enlightened.* - **Laozi** 
+> *What do we live for, if it is not to make life less difficult for each other?* - **George Eliot** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
