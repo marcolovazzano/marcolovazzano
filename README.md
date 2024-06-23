@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Any sufficiently advanced technology is equivalent to magic.* - **Arthur C. Clarke** 
+> *An ant on the move does more than a dozing ox* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
