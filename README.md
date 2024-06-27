@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Knowing is not enough; we must apply!* - **Johann Wolfgang von Goethe** 
+> *The more you care, the stronger you can be.* - **Jim Rohn** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
