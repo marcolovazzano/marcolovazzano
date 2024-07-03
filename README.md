@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.* - **Oliver Wendell Holmes Jr.** 
+> *I have not failed. I've just found 10,000 ways that won't work.* - **Thomas Edison** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
