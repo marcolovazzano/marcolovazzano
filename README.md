@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.* - **Laozi** 
+> *Success is where preparation and opportunity meet.* - **Bobby Unser** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
