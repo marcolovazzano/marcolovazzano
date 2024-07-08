@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.* - **Winston Churchill** 
+> *I never did a day's work in my life.  It was all fun.* - **Thomas Edison** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
