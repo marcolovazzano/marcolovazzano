@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I never did a day's work in my life.  It was all fun.* - **Thomas Edison** 
+> *'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.* - **The Buddha** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
