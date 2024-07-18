@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Love demands infinitely less than friendship.* - **George Jean Nathan** 
+> *You are that vast thing that you see far, far off with great telescopes.* - **Alan Watts** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
