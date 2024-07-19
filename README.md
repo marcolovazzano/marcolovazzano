@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You are that vast thing that you see far, far off with great telescopes.* - **Alan Watts** 
+> *Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.* - **The Buddha** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
