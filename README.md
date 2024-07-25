@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.* - **George Washington** 
+> *All that we see or seem is but a dream within a dream.* - **Edgar Allan Poe** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
