@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *All that we see or seem is but a dream within a dream.* - **Edgar Allan Poe** 
+> *The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.* - **Peter Abelard** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
