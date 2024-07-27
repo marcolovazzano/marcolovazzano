@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.* - **Peter Abelard** 
+> *There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.* - **Nelson Mandela** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
