@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.* - **Nelson Mandela** 
+> *Through perseverance many people win success out of what seemed destined to be certain failure.* - **Benjamin Disraeli** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
