@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Through perseverance many people win success out of what seemed destined to be certain failure.* - **Benjamin Disraeli** 
+> *Love is composed of a single soul inhabiting two bodies.* - **Aristotle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
