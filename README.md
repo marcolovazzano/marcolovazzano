@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Knowledge rests not upon truth alone, but upon error also.* - **Carl Jung** 
+> *It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.* - **Leonardo da Vinci** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
