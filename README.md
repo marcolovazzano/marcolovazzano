@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.* - **Leonardo da Vinci** 
+> *You cannot be lonely if you like the person you're alone with.* - **Wayne Dyer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
