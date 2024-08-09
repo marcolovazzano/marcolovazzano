@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others* - **The Buddha** 
+> *One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.* - **Brooks Adams** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
