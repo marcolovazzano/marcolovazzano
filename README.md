@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To be wronged is nothing unless you continue to remember it.* - **Confucius** 
+> *I will prepare and some day my chance will come.* - **Abraham Lincoln** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
