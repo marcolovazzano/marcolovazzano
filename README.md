@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is more wisdom in your body than in your deepest philosophy.* - **Friedrich Nietzsche** 
+> *The only limit to your impact is your imagination and commitment.* - **Tony Robbins** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
