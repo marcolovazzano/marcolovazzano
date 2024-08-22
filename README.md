@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The only limit to your impact is your imagination and commitment.* - **Tony Robbins** 
+> *We are what we repeatedly do. Excellence, then, is not an act, but a habit.* - **Aristotle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
