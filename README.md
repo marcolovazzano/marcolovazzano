@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.* - **Thomas Carlyle** 
+> *Every man is a volume if you know how to read him.* - **William Ellery Channing** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
