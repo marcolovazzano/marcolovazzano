@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Every man is a volume if you know how to read him.* - **William Ellery Channing** 
+> *They must often change, who would be constant in happiness or wisdom.* - **Confucius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
