@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Everything you can imagine is real.* - **Pablo Picasso** 
+> *Happiness does not come from having much, but from being attached to little.* - **Cheng Yen** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
