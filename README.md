@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Remember that the most valuable antiques are dear old friends.* - **H. Jackson Brown Jr.** 
+> *It is a characteristic of wisdom not to do desperate things.* - **Henry David Thoreau** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
