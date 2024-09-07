@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is a characteristic of wisdom not to do desperate things.* - **Henry David Thoreau** 
+> *The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.* - **Thích Nhất Hạnh** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
