@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.* - **Thích Nhất Hạnh** 
+> *Beware lest you lose the substance by grasping at the shadow.* - **Aesop** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
