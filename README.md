@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Remember that failure is an event, not a person.* - **Zig Ziglar** 
+> *Friendship is an arrangement by which we undertake to exchange small favors for big ones.* - **Montesquieu** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
