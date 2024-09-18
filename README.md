@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.* - **Isocrates** 
+> *You got to be careful if you don't know where you're going, because you might not get there.* - **Yogi Berra** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
