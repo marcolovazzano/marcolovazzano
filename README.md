@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You got to be careful if you don't know where you're going, because you might not get there.* - **Yogi Berra** 
+> *The best way out is always through.* - **Robert Frost** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
