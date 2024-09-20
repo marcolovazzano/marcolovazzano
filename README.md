@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The best way out is always through.* - **Robert Frost** 
+> *A good head and a good heart are always a formidable combination.* - **Nelson Mandela** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
