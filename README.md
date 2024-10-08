@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you want things to be different, perhaps the answer is to become different yourself.* - **Norman Vincent Peale** 
+> *The less effort, the faster and more powerful you will be.* - **Bruce Lee** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
