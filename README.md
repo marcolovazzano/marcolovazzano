@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Good timber does not grow with ease; the stronger the wind, the stronger the trees.* - **J. Willard Marriott** 
+> *Do you know what my favorite part of the game is? The opportunity to play.* - **Mike Singletary (basketball)** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
