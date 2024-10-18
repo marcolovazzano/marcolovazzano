@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Motivation is the art of getting people to do what you want them to do because they want to do it.* - **Dwight D. Eisenhower** 
+> *A business that makes nothing but money is a poor business.* - **Henry Ford** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
