@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I love wisdom. And you can never be great at anything unless you love it. Not be in love with it, but love the thing, admire the thing. And it seems that if you love the thing, and you don't just want to possess it, it will find you.* - **Maya Angelou** 
+> *There is no friendship, no love, like that of the parent for the child.* - **Henry Ward Beecher** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
