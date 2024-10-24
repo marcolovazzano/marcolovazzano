@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.* - **Oliver Wendell Holmes Jr.** 
+> *The free man is he who does not fear to go to the end of his thought.* - **Léon Blum** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
