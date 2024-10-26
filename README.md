@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.* - **Swami Vivekananda** 
+> *Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
