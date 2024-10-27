@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.* - **Laozi** 
+> *You do not become good by trying to be good, but by finding the goodness that is already within you.* - **Eckhart Tolle** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
