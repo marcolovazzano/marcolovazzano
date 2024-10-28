@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You do not become good by trying to be good, but by finding the goodness that is already within you.* - **Eckhart Tolle** 
+> *You know you're in love when you can't fall asleep because reality is finally better than your dreams.* - **Dr. Seuss** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
