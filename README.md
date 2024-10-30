@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Sooner or later, those who win are those who think they can.* - **Richard Bach** 
+> *The grand essentials of happiness are: something to do, something to love, and something to hope for.* - **Alexander Chalmers** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
