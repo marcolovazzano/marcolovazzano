@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The grand essentials of happiness are: something to do, something to love, and something to hope for.* - **Alexander Chalmers** 
+> *If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.* - **Daisaku Ikeda** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
