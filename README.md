@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I don't believe in failure. It's not failure if you enjoyed the process.* - **Oprah Winfrey** 
+> *Friendship is the marriage of the soul, and this marriage is liable to divorce.* - **Voltaire** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
