@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.* - **The Buddha** 
+> *Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.* - **Kahlil Gibran** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
