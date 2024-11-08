@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.* - **Wayne Dyer** 
+> *Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
