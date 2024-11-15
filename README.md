@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Better be ignorant of a matter than half know it.* - **Publilius Syrus** 
+> *Silence at the proper season is wisdom, and better than any speech.* - **Plutarch** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
