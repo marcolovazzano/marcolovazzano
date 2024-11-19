@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Let yourself be silently drawn by the stronger pull of what you really love.* - **Rumi** 
+> *The free man is he who does not fear to go to the end of his thought.* - **Léon Blum** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
