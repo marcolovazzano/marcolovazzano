@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *In wartime, truth is so precious that she should always be attended by a bodyguard of lies.* - **Winston Churchill** 
+> *Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.* - **Albert Einstein** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
