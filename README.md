@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.* - **Albert Einstein** 
+> *We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.* - **Marcia Fudge** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
