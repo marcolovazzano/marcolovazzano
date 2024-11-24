@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.* - **Marcia Fudge** 
+> *That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.* - **Martin Luther King Jr.** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
