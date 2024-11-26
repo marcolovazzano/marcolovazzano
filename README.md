@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is only one happiness in life, to love and be loved.* - **George Sand** 
+> *To listen well is as powerful a means of communication and influence as to talk well.* - **John Marshall** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
