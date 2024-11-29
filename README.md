@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Remember that sometimes not getting what you want is a wonderful stroke of luck.* - **Dalai Lama** 
+> *If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.* - **Nora Roberts** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
