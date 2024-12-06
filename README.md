@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.* - **Mia Hamm** 
+> *If we look at the world with a love of life, the world will reveal its beauty to us.* - **Daisaku Ikeda** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
