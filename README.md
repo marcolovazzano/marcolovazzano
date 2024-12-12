@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.* - **Vince Lombardi** 
+> *If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?* - **Confucius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
