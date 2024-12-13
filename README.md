@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?* - **Confucius** 
+> *We should all be thankful for those people who rekindle the inner spirit.* - **Albert Schweitzer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
