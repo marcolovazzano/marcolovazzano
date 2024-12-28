@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.* - **Richard Bach** 
+> *Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?* - **Dalai Lama** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
