@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?* - **Dalai Lama** 
+> *Keep your eyes on the stars and your feet on the ground.* - **Theodore Roosevelt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
