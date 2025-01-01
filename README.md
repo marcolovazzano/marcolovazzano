@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *All things must come to the soul from its roots, from where it is planted.* - **Teresa of Ávila** 
+> *Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.* - **Marcel Proust** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
