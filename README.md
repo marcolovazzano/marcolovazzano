@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.* - **Franklin D. Roosevelt** 
+> *The greatest way to live with honor in this world is to be what we pretend to be.* - **Socrates** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
