@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Ask yourself the secret of your success. Listen to your answer and practice it.* - **Richard Bach** 
+> *Be slow in choosing a friend, slower in changing.* - **Benjamin Franklin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
