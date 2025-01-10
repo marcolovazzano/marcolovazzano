@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Be slow in choosing a friend, slower in changing.* - **Benjamin Franklin** 
+> *Accept challenges, so that you may feel the exhilaration of victory.* - **George S. Patton** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
