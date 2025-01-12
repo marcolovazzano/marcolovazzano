@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Think big thoughts but relish small pleasures.* - **H. Jackson Brown Jr.** 
+> *All that I am, or hope to be, I owe to my angel mother.* - **Abraham Lincoln** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
