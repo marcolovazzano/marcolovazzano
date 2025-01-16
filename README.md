@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Act as if what you do makes a difference. It does.* - **William James** 
+> *Start with what is right rather than what is acceptable.* - **Franz Kafka** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
