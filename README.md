@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Real magic in relationships means an absence of judgement of others.* - **Wayne Dyer** 
+> *A goal without a plan is just a wish.* - **Larry Elder** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
