@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Do more than dream: work.* - **William Arthur Ward** 
+> *He is no fool who gives what he cannot keep to gain what he cannot lose.* - **Jim Elliot** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
