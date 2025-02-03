@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *He who conquers others is strong; He who conquers himself is mighty.* - **Laozi** 
+> *Blessed is the man who expects nothing, for he shall never be disappointed.* - **Alexander Pope** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
