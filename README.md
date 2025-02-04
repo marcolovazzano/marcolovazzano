@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Blessed is the man who expects nothing, for he shall never be disappointed.* - **Alexander Pope** 
+> *If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.* - **Nora Roberts** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
