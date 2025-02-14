@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Make the best use of what is in your power and take the rest as it happens.* - **Epictetus** 
+> *It is fatal to enter any war without the will to win it.* - **Douglas MacArthur** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
