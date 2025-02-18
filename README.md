@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When you doubt your power, you give power to your doubt.* - **Honoré de Balzac** 
+> *The human spirit must prevail over technology.* - **Albert Einstein** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
