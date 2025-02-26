@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Change your life today. Don't gamble on the future, act now, without delay.* - **Simone de Beauvoir** 
+> *Victory belongs to the most persevering.* - **Napoleon** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
