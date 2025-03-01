@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I know not age, nor weariness nor defeat.* - **Rose Kennedy** 
+> *Most people never run far enough on their first wind to find out they've got a second.* - **William James** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
