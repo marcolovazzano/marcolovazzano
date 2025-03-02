@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Most people never run far enough on their first wind to find out they've got a second.* - **William James** 
+> *Be like the flower, turn your face to the sun.* - **Kahlil Gibran** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
