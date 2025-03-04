@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.* - **The Buddha** 
+> *If your actions inspire others to dream more, learn more, do more and become more, you are a leader.* - **John Quincy Adams** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
