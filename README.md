@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If we open a quarrel between past and present, we shall find that we have lost the future.* - **Winston Churchill** 
+> *Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.* - **Archimedes** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
