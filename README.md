@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.* - **Archimedes** 
+> *The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.* - **Peter Abelard** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
