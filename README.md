@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The energy of the mind is the essence of life.* - **Aristotle** 
+> *He that is giddy thinks the world turns round.* - **William Shakespeare** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
