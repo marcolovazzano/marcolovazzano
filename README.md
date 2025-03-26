@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.* - **Michel de Montaigne** 
+> *If you don't like something, change it. If you can't change it, change your attitude.* - **Maya Angelou** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
