@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you don't like something, change it. If you can't change it, change your attitude.* - **Maya Angelou** 
+> *His lack of education is more than compensated for by his keenly developed moral bankruptcy.* - **Woody Allen** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
