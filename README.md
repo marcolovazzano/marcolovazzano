@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *His lack of education is more than compensated for by his keenly developed moral bankruptcy.* - **Woody Allen** 
+> *Where there is great love, there are always miracles.* - **Willa Cather** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
