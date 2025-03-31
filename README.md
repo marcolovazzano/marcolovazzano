@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You won't skid if you stay in a rut.* - **Kin Hubbard** 
+> *I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.* - **Plutarch** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
