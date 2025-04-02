@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Keep your eyes on the stars and your feet on the ground.* - **Theodore Roosevelt** 
+> *The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.* - **Oscar Wilde** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
