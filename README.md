@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is no failure except in no longer trying.* - **Elbert Hubbard** 
+> *A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.* - **Denis Waitley** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
