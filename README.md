@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is easier to live through someone else than to become complete yourself.* - **Betty Friedan** 
+> *You are always free to change your mind and choose a different future, or a different past.* - **Richard Bach** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
