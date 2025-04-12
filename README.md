@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You can only grow if you're willing to feel awkward and uncomfortable when you try something new.* - **Brian Tracy** 
+> *Only put off until tomorrow what you are willing to die having left undone.* - **Pablo Picasso** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
