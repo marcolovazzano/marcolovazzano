@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Only put off until tomorrow what you are willing to die having left undone.* - **Pablo Picasso** 
+> *You know you're in love when you can't fall asleep because reality is finally better than your dreams.* - **Dr. Seuss** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
