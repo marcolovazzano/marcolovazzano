@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Work while you have the light. You are responsible for the talent that has been entrusted to you.* - **Henri-Frédéric Amiel** 
+> *The fewer rules a coach has, the fewer rules there are for players to break.* - **John Madden** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
