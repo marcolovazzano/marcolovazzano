@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *So much technology, so little talent.* - **Vernor Vinge** 
+> *Wisdom often times consists of knowing what to do next.* - **Herbert Hoover** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
