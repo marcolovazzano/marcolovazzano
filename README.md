@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.* - **Archimedes** 
+> *The wisdom of the wise, and the experience of ages, may be preserved by quotation.* - **Isaac D'Israeli** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
