@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Finding good players is easy. Getting them to play as a team is another story.* - **Casey Stengel** 
+> *Most of the shadows of life are caused by standing in our own sunshine.* - **Ralph Waldo Emerson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
