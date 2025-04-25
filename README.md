@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Most of the shadows of life are caused by standing in our own sunshine.* - **Ralph Waldo Emerson** 
+> *If one does not know to which port one is sailing, no wind is favorable.* - **Seneca the Younger** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
