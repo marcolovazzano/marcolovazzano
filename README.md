@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Marriage: A friendship recognized by the police.* - **Robert Louis Stevenson** 
+> *The secret of getting ahead is getting started.* - **Mark Twain** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
