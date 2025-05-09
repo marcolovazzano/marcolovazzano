@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The language of friendship is not words but meanings.* - **Henry David Thoreau** 
+> *Marriage: A friendship recognized by the police.* - **Robert Louis Stevenson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
