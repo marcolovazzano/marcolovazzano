@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Everything that irritates us about others can lead us to a better understanding of ourselves.* - **Carl Jung** 
+> *The more man meditates upon good thoughts, the better will be his world and the world at large.* - **Confucius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
