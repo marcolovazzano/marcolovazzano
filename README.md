@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You can't choose up sides on a round world.* - **Wayne Dyer** 
+> *If we did the things we are capable of, we would astound ourselves.* - **Thomas Edison** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
