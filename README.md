@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.* - **Babatunde Olatunji** 
+> *Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.* - **Eustace Budgell** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
