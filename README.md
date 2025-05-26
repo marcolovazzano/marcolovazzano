@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Reviewing what you have learned and learning anew, you are fit to be a teacher.* - **Confucius** 
+> *Sometimes the most important thing in a whole day is the rest we take between two deep breaths.* - **Etty Hillesum** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
