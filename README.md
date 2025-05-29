@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.* - **Donald Trump** 
+> *A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.* - **Joseph Roux** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
