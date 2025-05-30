@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.* - **Joseph Roux** 
+> *Finding good players is easy. Getting them to play as a team is another story.* - **Casey Stengel** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
