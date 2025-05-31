@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Finding good players is easy. Getting them to play as a team is another story.* - **Casey Stengel** 
+> *The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.* - **Mahatma Gandhi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
