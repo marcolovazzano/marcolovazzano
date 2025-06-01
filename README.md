@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.* - **Mahatma Gandhi** 
+> *Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.* - **Robert Graves** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
