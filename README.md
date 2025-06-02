@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.* - **Robert Graves** 
+> *We've got to have a dream if we are going to make a dream come true.* - **Walt Disney** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
