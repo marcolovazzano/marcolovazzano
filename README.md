@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Honesty is the best policy.* - **Benjamin Franklin** 
+> *Be slow of tongue and quick of eye.* - **Miguel de Cervantes** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
