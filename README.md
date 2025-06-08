@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The universe is made of stories, not atoms.* - **Muriel Rukeyser** 
+> *Honesty is the first chapter in the book of wisdom.* - **Thomas Jefferson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
