@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Honesty is the first chapter in the book of wisdom.* - **Thomas Jefferson** 
+> *Friendship is a very taxing and arduous form of leisure activity.* - **Mortimer J. Adler** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
