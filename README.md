@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Science and technology revolutionize our lives, but memory, tradition and myth frame our response.* - **Arthur M. Schlesinger Jr.** 
+> *You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.* - **Laurence J. Peter** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
