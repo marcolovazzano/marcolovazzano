@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is no greater harm than that of time wasted.* - **Michelangelo** 
+> *You can only grow if you're willing to feel awkward and uncomfortable when you try something new.* - **Brian Tracy** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
