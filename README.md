@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If you do what you've always done, you'll get what you've always gotten.* - **Tony Robbins** 
+> *Be yourself; everyone else is already taken.* - **Oscar Wilde** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
