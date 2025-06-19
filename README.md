@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *An appeaser is one who feeds a crocodile, hoping it will eat him last.* - **Winston Churchill** 
+> *We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.* - **James Freeman Clarke** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
