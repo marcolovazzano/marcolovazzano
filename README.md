@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The only journey is the one within.* - **Rainer Maria Rilke** 
+> *Love is blind; friendship closes its eyes.* - **Friedrich Nietzsche** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
