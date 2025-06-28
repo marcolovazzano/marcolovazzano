@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Men are disturbed not by things, but by the view which they take of them.* - **Epictetus** 
+> *Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.* - **The Buddha** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
