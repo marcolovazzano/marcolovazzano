@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friendship may, and often does, grow into love, but love never subsides into friendship.* - **Lord Byron** 
+> *The biggest adventure you can ever take is to live the life of your dreams.* - **Oprah Winfrey** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
