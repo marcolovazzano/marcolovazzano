@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Be great in act, as you have been in thought.* - **William Shakespeare** 
+> *Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.* - **Blaise Pascal** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
