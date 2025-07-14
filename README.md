@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Love cures people - both the ones who give it and the ones who receive it.* - **Karl Menninger** 
+> *If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.* - **Epictetus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
