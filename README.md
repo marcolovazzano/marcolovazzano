@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.* - **Pema Chödrön** 
+> *Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.* - **Charles Lindbergh** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
