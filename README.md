@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To change one's life, start immediately, do it flamboyantly, no exceptions.* - **William James** 
+> *When people are like each other they tend to like each other.* - **Tony Robbins** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
