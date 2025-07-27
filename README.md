@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Applause is a receipt, not a bill.* - **Dale Carnegie** 
+> *Better be ignorant of a matter than half know it.* - **Publilius Syrus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
