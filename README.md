@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Life is not a problem to be solved, but a reality to be experienced.* - **Søren Kierkegaard** 
+> *Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.* - **Tony Robbins** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
