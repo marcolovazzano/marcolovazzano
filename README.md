@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.* - **Tony Robbins** 
+> *I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.* - **Robert Schuller** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
