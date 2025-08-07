@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Wisdom is oftentimes nearer when we stoop than when we soar.* - **William Wordsworth** 
+> *Fortune favors the brave.* - **Virgil** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
