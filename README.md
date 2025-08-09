@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.* - **Don DeLillo** 
+> *A man sees in the world what he carries in his heart.* - **Johann Wolfgang von Goethe** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
