@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A man sees in the world what he carries in his heart.* - **Johann Wolfgang von Goethe** 
+> *A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.* - **David Brinkley** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
