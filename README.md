@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.* - **Theodore Isaac Rubin** 
+> *The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.* - **Henry David Thoreau** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
