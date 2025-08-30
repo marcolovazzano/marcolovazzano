@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.* - **Henry David Thoreau** 
+> *An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.* - **Albert Schweitzer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
