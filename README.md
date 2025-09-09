@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.* - **Robert Fulghum** 
+> *The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.* - **Michelle Obama** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
