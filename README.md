@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *What happens is not as important as how you react to what happens.* - **Ellen Glasgow** 
+> *It is not wisdom but Authority that makes a law.* - **Thomas Hobbes** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
