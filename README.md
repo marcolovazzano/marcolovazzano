@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Do what you can. Want what you have. Be who you are.* - **Forrest Church** 
+> *It has become appallingly obvious that our technology has exceeded our humanity.* - **Albert Einstein** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
