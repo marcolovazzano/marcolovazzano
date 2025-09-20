@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Efficiency is doing things right; effectiveness is doing the right things.* - **Peter Drucker** 
+> *With age comes wisdom and a high sex drive. And the wisdom to enjoy it.* - **Amber Valletta** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
