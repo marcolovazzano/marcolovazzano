@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *With age comes wisdom and a high sex drive. And the wisdom to enjoy it.* - **Amber Valletta** 
+> *Walking with a friend in the dark is better than walking alone in the light.* - **Helen Keller** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
