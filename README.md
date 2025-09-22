@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Walking with a friend in the dark is better than walking alone in the light.* - **Helen Keller** 
+> *To enjoy life, we must touch much of it lightly.* - **Voltaire** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
