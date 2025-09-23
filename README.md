@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To enjoy life, we must touch much of it lightly.* - **Voltaire** 
+> *A prudent question is one half of wisdom.* - **Francis Bacon** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
