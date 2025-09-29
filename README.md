@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.* - **Robert Louis Stevenson** 
+> *It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.* - **Max Planck** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
