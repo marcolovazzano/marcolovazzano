@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Be content with your lot; one cannot be first in everything.* - **Aesop** 
+> *Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.* - **Plotinus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
