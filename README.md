@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.* - **Plotinus** 
+> *To be what we are, and to become what we are capable of becoming, is the only end of life.* - **Robert Louis Stevenson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
