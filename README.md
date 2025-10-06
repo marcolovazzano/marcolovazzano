@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The real danger is not that computers will begin to think like men, but that men will begin to think like computers.* - **Sydney J. Harris** 
+> *We are all something, but none of us are everything.* - **Blaise Pascal** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
