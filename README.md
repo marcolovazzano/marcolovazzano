@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.* - **Arthur Rubinstein** 
+> *We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.* - **Marcel Proust** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
