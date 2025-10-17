@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Technology made large populations possible; large populations now make technology indispensable.* - **Joseph Wood Krutch** 
+> *We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.* - **Arthur Ashe** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
