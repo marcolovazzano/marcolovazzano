@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Wise men talk because they have something to say; fools, because they have to say something.* - **Plato** 
+> *Attitude is a little thing that makes a big difference.* - **Winston Churchill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
