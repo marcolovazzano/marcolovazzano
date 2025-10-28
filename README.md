@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Attitude is a little thing that makes a big difference.* - **Winston Churchill** 
+> *Champions keep playing until they get it right.* - **Billie Jean King** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
