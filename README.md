@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The great myth of our times is that technology is communication.* - **Libby Larsen** 
+> *Trying to define yourself is like trying to bite your own teeth.* - **Alan Watts** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
