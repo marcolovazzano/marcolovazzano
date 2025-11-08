@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Trying to define yourself is like trying to bite your own teeth.* - **Alan Watts** 
+> *The superior man acts before he speaks, and afterwards speaks according to his action.* - **Confucius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
