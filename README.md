@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We can only be said to be alive in those moments when our hearts are conscious of our treasures.* - **Thornton Wilder** 
+> *You were not born a winner, and you were not born a loser. You are what you make yourself be.* - **Lou Holtz** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
