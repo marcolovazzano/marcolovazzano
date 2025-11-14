@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *You were not born a winner, and you were not born a loser. You are what you make yourself be.* - **Lou Holtz** 
+> *Not what we have but what we enjoy constitutes our abundance.* - **Jean Antoine Petit-Senn** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
