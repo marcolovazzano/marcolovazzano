@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The only time to buy these is on a day with no 'y' in it.* - **Warren Buffett** 
+> *Most people never run far enough on their first wind to find out they've got a second.* - **William James** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
