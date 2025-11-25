@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Most people never run far enough on their first wind to find out they've got a second.* - **William James** 
+> *All our dreams can come true, if we have the courage to pursue them.* - **Walt Disney** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
