@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is only when the mind and character slumber that the dress can be seen.* - **Ralph Waldo Emerson** 
+> *Let your hook always be cast; in the pool where you least expect it, there will be a fish.* - **Ovid** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
