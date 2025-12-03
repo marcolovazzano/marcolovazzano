@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Well done is better than well said.* - **Benjamin Franklin** 
+> *Know how to listen, and you will profit even from those who talk badly.* - **Plutarch** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
