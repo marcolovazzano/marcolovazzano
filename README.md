@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nature and books belong to the eyes that see them.* - **Ralph Waldo Emerson** 
+> *I begin with an idea and then it becomes something else.* - **Pablo Picasso** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
