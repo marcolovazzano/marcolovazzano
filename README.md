@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.* - **Charlotte Perkins Gilman** 
+> *Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.* - **Anne Frank** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
