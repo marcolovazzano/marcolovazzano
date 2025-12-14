@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Wisdom begins in wonder.* - **Socrates** 
+> *Every problem has a gift for you in its hands.* - **Richard Bach** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
