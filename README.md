@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When deeds and words are in accord, the whole world is transformed.* - **Zhuang Zhou** 
+> *A friend is, as it were, a second self.* - **Cicero** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
