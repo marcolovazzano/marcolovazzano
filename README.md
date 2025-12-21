@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.* - **Robert Louis Stevenson** 
+> *A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.* - **Oliver Wendell Holmes Jr.** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
