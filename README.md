@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.* - **Oliver Wendell Holmes Jr.** 
+> *It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.* - **Franklin D. Roosevelt** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
