@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.* - **Laozi** 
+> *Failure doesn't mean you are a failure it just means you haven't succeeded yet.* - **Robert Schuller** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
