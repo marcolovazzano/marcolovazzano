@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friendship is always a sweet responsibility, never an opportunity.* - **Kahlil Gibran** 
+> *To choose what is difficult all one's days, as if it were easy, that is faith.* - **W. H. Auden** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
