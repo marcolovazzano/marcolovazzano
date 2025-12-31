@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To choose what is difficult all one's days, as if it were easy, that is faith.* - **W. H. Auden** 
+> *The world is a book, and those who do not travel read only a page.* - **Augustine of Hippo** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
