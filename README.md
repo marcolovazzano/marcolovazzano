@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.* - **John C. Maxwell** 
+> *I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.* - **Og Mandino** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
