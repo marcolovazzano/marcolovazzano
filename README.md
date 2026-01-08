@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.* - **Og Mandino** 
+> *Be slow in choosing a friend, slower in changing.* - **Benjamin Franklin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
