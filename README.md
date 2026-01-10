@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!* - **Richard Bach** 
+> *The wisdom of the wise, and the experience of ages, may be preserved by quotation.* - **Isaac D'Israeli** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
