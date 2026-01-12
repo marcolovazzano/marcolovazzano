@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *If the shoe doesn't fit, must we change the foot?* - **Gloria Steinem** 
+> *Life isn't about finding yourself. Life is about creating yourself.* - **Bernard Shaw** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
