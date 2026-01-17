@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A true friend is someone who is there for you when he'd rather be anywhere else.* - **Len Wein** 
+> *Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.* - **Whoopi Goldberg** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
