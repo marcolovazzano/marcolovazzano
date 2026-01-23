@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.* - **Peter Abelard** 
+> *The only real valuable thing is intuition.* - **Albert Einstein** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
