@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.* - **Tony Robbins** 
+> *There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.* - **Nelson Mandela** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
