@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.* - **Nelson Mandela** 
+> *We can only be said to be alive in those moments when our hearts are conscious of our treasures.* - **Thornton Wilder** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
