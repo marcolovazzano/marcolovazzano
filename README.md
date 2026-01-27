@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We can only be said to be alive in those moments when our hearts are conscious of our treasures.* - **Thornton Wilder** 
+> *Don't turn away from possible futures before you're certain you don't have anything to learn from them.* - **Richard Bach** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
