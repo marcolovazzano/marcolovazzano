@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Don't turn away from possible futures before you're certain you don't have anything to learn from them.* - **Richard Bach** 
+> *One today is worth two tomorrows.* - **Benjamin Franklin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
