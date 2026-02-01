@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Sometimes the most important thing in a whole day is the rest we take between two deep breaths.* - **Etty Hillesum** 
+> *Think as a wise man but communicate in the language of the people.* - **William Butler Yeats** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
