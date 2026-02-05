@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The greatest good you can do for another is not just share your riches but reveal to them their own.* - **Benjamin Disraeli** 
+> *It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.* - **Mignon McLaughlin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
