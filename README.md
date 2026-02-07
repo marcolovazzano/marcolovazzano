@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Do something wonderful, people may imitate it.* - **Albert Schweitzer** 
+> *Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.* - **Jonathan Swift** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
