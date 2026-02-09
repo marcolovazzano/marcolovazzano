@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Much wisdom often goes with fewest words.* - **Sophocles** 
+> *Those who cannot learn from history are doomed to repeat it.* - **George Santayana** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
