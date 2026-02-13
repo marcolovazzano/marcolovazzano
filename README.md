@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friendship is an arrangement by which we undertake to exchange small favors for big ones.* - **Montesquieu** 
+> *What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.* - **Daisaku Ikeda** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
