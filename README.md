@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.* - **Dalai Lama** 
+> *Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.* - **Dhammapada** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
