@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.* - **Dhammapada** 
+> *An appeaser is one who feeds a crocodile, hoping it will eat him last.* - **Winston Churchill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
