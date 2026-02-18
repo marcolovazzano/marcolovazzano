@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *An appeaser is one who feeds a crocodile, hoping it will eat him last.* - **Winston Churchill** 
+> *Happiness mainly comes from our own attitude, rather than from external factors.* - **Dalai Lama** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
