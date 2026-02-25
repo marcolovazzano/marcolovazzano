@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A thing long expected takes the form of the unexpected when at last it comes.* - **Mark Twain** 
+> *The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.* - **Johann Wolfgang von Goethe** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
