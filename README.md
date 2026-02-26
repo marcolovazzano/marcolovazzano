@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.* - **Johann Wolfgang von Goethe** 
+> *By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
