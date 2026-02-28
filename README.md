@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *As an organizer I start from where the world is, as it is, not as I would like it to be.* - **Saul Alinsky** 
+> *Fear not for the future, weep not for the past.* - **Percy Bysshe Shelley** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
