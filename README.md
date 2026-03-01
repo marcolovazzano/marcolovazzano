@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Fear not for the future, weep not for the past.* - **Percy Bysshe Shelley** 
+> *Success is not final; failure is not fatal: it is the courage to continue that counts.* - **Winston Churchill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
