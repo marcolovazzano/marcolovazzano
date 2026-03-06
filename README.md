@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.* - **The Buddha** 
+> *Time changes everything except something within us which is always surprised by change.* - **Thomas Hardy** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
