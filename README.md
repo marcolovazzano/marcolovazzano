@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Where there is charity and wisdom, there is neither fear nor ignorance.* - **Francis of Assisi** 
+> *When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.* - **Joseph Campbell** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
