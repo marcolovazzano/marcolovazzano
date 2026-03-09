@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.* - **Joseph Campbell** 
+> *We cannot do everything at once, but we can do something at once.* - **Calvin Coolidge** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
