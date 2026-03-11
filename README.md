@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.* - **Dalai Lama** 
+> *Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.* - **Dale Carnegie** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
