@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.* - **Dale Carnegie** 
+> *If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.* - **John Steinbeck** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
