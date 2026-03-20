@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The free man is he who does not fear to go to the end of his thought.* - **Léon Blum** 
+> *To keep your secret is wisdom; but to expect others to keep it is folly.* - **Samuel Johnson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
