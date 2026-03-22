@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Do you want to know who you are? Don't ask. Act! Action will delineate and define you.* - **Thomas Jefferson** 
+> *It is not so important to know everything as to appreciate what we learn.* - **Hannah More** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
