@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Habit, if not resisted, soon becomes necessity.* - **Augustine of Hippo** 
+> *The ballot is stronger than the bullet.* - **Abraham Lincoln** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
