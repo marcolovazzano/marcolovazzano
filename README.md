@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.* - **Carl Jung** 
+> *Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.* - **William Arthur Ward** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
