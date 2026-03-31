@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.* - **William Arthur Ward** 
+> *Never find fault with the absent.* - **Alexander Pope** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
