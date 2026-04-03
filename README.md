@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Things do not change; we change.* - **Henry David Thoreau** 
+> *To profit from good advice requires more wisdom than to give it.* - **Wilson Mizner** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
