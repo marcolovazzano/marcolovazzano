@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To profit from good advice requires more wisdom than to give it.* - **Wilson Mizner** 
+> *Everything that exists is in a manner the seed of that which will be.* - **Marcus Aurelius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
