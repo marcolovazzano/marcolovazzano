@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Life is a succession of moments. To live each one is to succeed.* - **Corita Kent** 
+> *In the depth of winter, I finally learned that there was within me an invincible summer.* - **Albert Camus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
