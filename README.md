@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nature takes away any faculty that is not used.* - **William Inge** 
+> *Action may not always bring happiness; but there is no happiness without action.* - **Benjamin Disraeli** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
