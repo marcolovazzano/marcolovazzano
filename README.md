@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Action may not always bring happiness; but there is no happiness without action.* - **Benjamin Disraeli** 
+> *Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?* - **Richard Bach** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
