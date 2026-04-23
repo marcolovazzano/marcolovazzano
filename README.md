@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.* - **Stephen Covey** 
+> *Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.* - **Helen Keller** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
