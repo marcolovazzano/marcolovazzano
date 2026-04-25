@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The most certain sign of wisdom is cheerfulness.* - **Michel de Montaigne** 
+> *Love has no age, no limit; and no death.* - **John Galsworthy** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
