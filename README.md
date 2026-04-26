@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Love has no age, no limit; and no death.* - **John Galsworthy** 
+> *Attitude is a little thing that makes a big difference.* - **Winston Churchill** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
