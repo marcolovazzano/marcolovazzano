@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Attitude is a little thing that makes a big difference.* - **Winston Churchill** 
+> *Change your thoughts and you change your world.* - **Norman Vincent Peale** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
