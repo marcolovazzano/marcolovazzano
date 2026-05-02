@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Difficulties increase the nearer we get to the goal.* - **Johann Wolfgang von Goethe** 
+> *No snowflake in an avalanche ever feels responsible.* - **Voltaire** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
