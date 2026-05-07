@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Gravitation cannot be held responsible for people falling in love. How on earth can you explain in terms of chemistry and physics so important a biological phenomenon as first love? Put your hand on a stove for a minute and it seems like an hour. Sit with that special girl for an hour and it seems like a minute. That's relativity.* - **Albert Einstein** 
+> *Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.* - **Henry James** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
