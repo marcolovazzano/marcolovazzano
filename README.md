@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Reviewing what you have learned and learning anew, you are fit to be a teacher.* - **Confucius** 
+> *Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.* - **Blaise Pascal** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
