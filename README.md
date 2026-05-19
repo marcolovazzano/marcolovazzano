@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nothing happens unless first we dream.* - **Carl Sandburg** 
+> *Love does not consist of gazing at each other, but in looking together in the same direction.* - **Antoine de Saint-Exupéry** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
