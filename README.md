@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Love does not consist of gazing at each other, but in looking together in the same direction.* - **Antoine de Saint-Exupéry** 
+> *It isn't where you come from, it's where you're going that counts.* - **Ella Fitzgerald** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
