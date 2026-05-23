@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.* - **Arthur Conan Doyle** 
+> *The real danger is not that computers will begin to think like men, but that men will begin to think like computers.* - **Sydney J. Harris** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
