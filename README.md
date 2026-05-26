@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.* - **Lucille Ball** 
+> *If you would take, you must first give, this is the beginning of intelligence.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
