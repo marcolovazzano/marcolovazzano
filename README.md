@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I'd rather regret the things I've done than regret the things I haven't done.* - **Lucille Ball** 
+> *One must be fond of people and trust them if one is not to make a mess of life.* - **E. M. Forster** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
