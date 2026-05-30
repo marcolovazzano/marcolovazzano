@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *One must be fond of people and trust them if one is not to make a mess of life.* - **E. M. Forster** 
+> *If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.* - **Henry David Thoreau** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
