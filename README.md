@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Imagination is the highest kite one can fly.* - **Lauren Bacall** 
+> *I think and that is all that I am.* - **Wayne Dyer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
