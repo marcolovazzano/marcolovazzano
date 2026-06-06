@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To fly, we have to have resistance.* - **Maya Lin** 
+> *Swim upstream. Go the other way. Ignore the conventional wisdom.* - **Sam Walton** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
