@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The wisdom of the wise, and the experience of ages, may be preserved by quotation.* - **Isaac D'Israeli** 
+> *In seed time learn, in harvest teach, in winter enjoy.* - **William Blake** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
