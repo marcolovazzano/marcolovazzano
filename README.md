@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Life is a succession of moments. To live each one is to succeed.* - **Corita Kent** 
+> *He who lives in harmony with himself lives in harmony with the universe.* - **Marcus Aurelius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
