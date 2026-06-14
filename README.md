@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Autumn is a second spring when every leaf is a flower.* - **Albert Camus** 
+> *By believing passionately in something that does not yet exist, we create it.* - **Nikos Kazantzakis** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
