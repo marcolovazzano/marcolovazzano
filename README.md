@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Dost thou love life? Then do not squander time, for that is the stuff life is made of.* - **Benjamin Franklin** 
+> *Don't compromise yourself. You are all you've got.* - **Janis Joplin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
