@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *By failing to prepare, you are preparing to fail.* - **Benjamin Franklin** 
+> *Always seek out the seed of triumph in every adversity.* - **Og Mandino** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
