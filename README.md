@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The virtue of justice consists in moderation, as regulated by wisdom.* - **Aristotle** 
+> *One that desires to excel should endeavor in those things that are in themselves most excellent.* - **Epictetus** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
