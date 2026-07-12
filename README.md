@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Love is the only force capable of transforming an enemy into a friend.* - **Martin Luther King Jr.** 
+> *The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.* - **Peter Abelard** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
