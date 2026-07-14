@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Without some goals and some efforts to reach it, no man can live.* - **John Dewey** 
+> *Change your thoughts and you change your world.* - **Norman Vincent Peale** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
