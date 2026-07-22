@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Nothing happens unless first we dream.* - **Carl Sandburg** 
+> *I can't listen to that much Wagner. I start getting the urge to conquer Poland.* - **Woody Allen** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
