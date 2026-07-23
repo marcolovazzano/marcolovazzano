@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I can't listen to that much Wagner. I start getting the urge to conquer Poland.* - **Woody Allen** 
+> *I prefer the folly of enthusiasm to the indifference of wisdom.* - **Anatole France** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
