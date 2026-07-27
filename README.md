@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The function of wisdom is to discriminate between good and evil.* - **Cicero** 
+> *There are people who have money and people who are rich.* - **Coco Chanel** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
