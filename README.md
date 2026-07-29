@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.* - **Leonardo da Vinci** 
+> *We never understand how little we need in this world until we know the loss of it.* - **J. M. Barrie** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
