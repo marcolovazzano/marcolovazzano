@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Set your goals high, and don't stop till you get there.* - **Bo Jackson** 
+> *A creative man is motivated by the desire to achieve, not by the desire to beat others.* - **Ayn Rand** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
