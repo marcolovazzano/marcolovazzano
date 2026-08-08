@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Reason and free inquiry are the only effectual agents against error.* - **Thomas Jefferson** 
+> *Begin at once to live and count each separate day as a separate life.* - **Seneca the Younger** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
