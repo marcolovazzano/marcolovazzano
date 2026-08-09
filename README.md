@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Begin at once to live and count each separate day as a separate life.* - **Seneca the Younger** 
+> *The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.* - **Daniel J. Boorstin** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
