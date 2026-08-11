@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.* - **Jack Welch** 
+> *The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.* - **Laozi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
