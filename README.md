@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves.* - **The Buddha** 
+> *Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.* - **William Shakespeare** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
