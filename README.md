@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Life's most persistent and urgent question is, 'What are you doing for others?'* - **Martin Luther King Jr.** 
+> *A friend is someone who gives you total freedom to be yourself.* - **Jim Morrison** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
