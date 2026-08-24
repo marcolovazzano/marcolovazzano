@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *A friend is someone who gives you total freedom to be yourself.* - **Jim Morrison** 
+> *Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.* - **Robert Fulghum** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
