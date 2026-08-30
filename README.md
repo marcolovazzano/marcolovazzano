@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The smallest deed is better than the greatest intention.* - **John Burroughs** 
+> *Good, better, best. Never let it rest. ‘Til your good is better and your better is best.* - **Jerome** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
