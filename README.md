@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Good, better, best. Never let it rest. ‘Til your good is better and your better is best.* - **Jerome** 
+> *Go for it now. The future is promised to no one.* - **Wayne Dyer** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
