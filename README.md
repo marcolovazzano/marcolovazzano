@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.* - **Amy Tan** 
+> *We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.* - **Elizabeth Kapu'uwailani Lindsey** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
