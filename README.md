@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?* - **George Eliot** 
+> *You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.* - **Laurence J. Peter** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
