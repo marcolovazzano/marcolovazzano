@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friendship may, and often does, grow into love, but love never subsides into friendship.* - **Lord Byron** 
+> *The greatest remedy for anger is delay.* - **Seneca the Younger** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
