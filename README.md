@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.* - **Winston Churchill** 
+> *The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.* - **William Arthur Ward** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
