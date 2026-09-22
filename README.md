@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The truth is not for all men, but only for those who seek it.* - **Ayn Rand** 
+> *We should not give up and we should not allow the problem to defeat us.* - **A. P. J. Abdul Kalam** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
