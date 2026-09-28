@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.* - **Confucius** 
+> *No day in which you learn something is a complete loss.* - **David Eddings** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
