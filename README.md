@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *All wisdom does not reside in Delhi.* - **P. Chidambaram** 
+> *Nobody will believe in you unless you believe in yourself.* - **Liberace** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
