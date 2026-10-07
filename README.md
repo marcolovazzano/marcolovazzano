@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I never see what has been done; I only see what remains to be done.* - **Marie Curie** 
+> *Things do not happen. Things are made to happen.* - **John F. Kennedy** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
