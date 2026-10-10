@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I never think of the future. It comes soon enough.* - **Albert Einstein** 
+> *Thought is the blossom; language the bud; action the fruit behind it.* - **Ralph Waldo Emerson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
