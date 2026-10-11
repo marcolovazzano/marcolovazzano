@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Thought is the blossom; language the bud; action the fruit behind it.* - **Ralph Waldo Emerson** 
+> *Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.* - **Samuel Richardson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
