@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.* - **Samuel Richardson** 
+> *The only way to have a friend is to be one.* - **Ralph Waldo Emerson** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
