@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.* - **Thomas Edison** 
+> *Very little is needed to make a happy life; it is all within yourself, in your way of thinking.* - **Marcus Aurelius** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
