@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Very little is needed to make a happy life; it is all within yourself, in your way of thinking.* - **Marcus Aurelius** 
+> *The best thing in every noble dream is the dreamer...* - **Moncure D. Conway** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
