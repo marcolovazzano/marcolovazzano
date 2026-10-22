@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *It is the province of knowledge to speak, and it is the privilege of wisdom to listen.* - **Oliver Wendell Holmes Jr.** 
+> *Peace begins with a smile.* - **Mother Teresa** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
