@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The important thing is this: to be able at any moment to sacrifice what we are for what we could become.* - **Charles Du Bos** 
+> *When deeds and words are in accord, the whole world is transformed.* - **Zhuang Zhou** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
