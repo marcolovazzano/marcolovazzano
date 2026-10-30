@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.* - **Henry van Dyke Jr.** 
+> *Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.* - **Bruce Lee** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
