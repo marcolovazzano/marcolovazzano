@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Fear grows in darkness; if you think there's a bogeyman around, turn on the light.* - **Dorothy Thompson** 
+> *Strength does not come from physical capacity. It comes from an indomitable will.* - **Mahatma Gandhi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
