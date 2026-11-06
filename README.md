@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Strength does not come from physical capacity. It comes from an indomitable will.* - **Mahatma Gandhi** 
+> *Be less curious about people and more curious about ideas.* - **Marie Curie** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
