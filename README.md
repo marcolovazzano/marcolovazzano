@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Compassion and happiness are not a sign of weakness but a sign of strength.* - **Dalai Lama** 
+> *Friendship is like money, easier made than kept.* - **Samuel Butler** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
