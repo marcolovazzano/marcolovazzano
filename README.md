@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Friendship is like money, easier made than kept.* - **Samuel Butler** 
+> *Where there is love there is life.* - **Mahatma Gandhi** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
