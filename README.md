@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Honesty is the first chapter in the book of wisdom.* - **Thomas Jefferson** 
+> *The best preparation for tomorrow is doing your best today.* - **H. Jackson Brown Jr.** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
