@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *I love wisdom. And you can never be great at anything unless you love it. Not be in love with it, but love the thing, admire the thing. And it seems that if you love the thing, and you don't just want to possess it, it will find you.* - **Maya Angelou** 
+> *The meaning I picked, the one that changed my life: Overcome fear, behold wonder.* - **Richard Bach** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
