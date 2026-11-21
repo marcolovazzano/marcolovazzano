@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *Correction does much, but encouragement does more.* - **Johann Wolfgang von Goethe** 
+> *'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.* - **The Buddha** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
