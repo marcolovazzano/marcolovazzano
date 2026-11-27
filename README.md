@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.* - **Honoré de Balzac** 
+> *To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.* - **The Buddha** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
