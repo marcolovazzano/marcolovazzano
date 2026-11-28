@@ -5,6 +5,6 @@
 
 **Quote of the day**
 
-> *To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.* - **The Buddha** 
+> *Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.* - **Mother Teresa** 
 
 [![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg?branch=main)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
